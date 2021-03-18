@@ -1,0 +1,13 @@
+D:\大二下\c#\hw0201\hw0201\bin\Debug\netcoreapp3.1\hw0201.exe
+D:\大二下\c#\hw0201\hw0201\bin\Debug\netcoreapp3.1\hw0201.deps.json
+D:\大二下\c#\hw0201\hw0201\bin\Debug\netcoreapp3.1\hw0201.runtimeconfig.json
+D:\大二下\c#\hw0201\hw0201\bin\Debug\netcoreapp3.1\hw0201.runtimeconfig.dev.json
+D:\大二下\c#\hw0201\hw0201\bin\Debug\netcoreapp3.1\hw0201.dll
+D:\大二下\c#\hw0201\hw0201\bin\Debug\netcoreapp3.1\hw0201.pdb
+D:\大二下\c#\hw0201\hw0201\obj\Debug\netcoreapp3.1\hw0201.csprojAssemblyReference.cache
+D:\大二下\c#\hw0201\hw0201\obj\Debug\netcoreapp3.1\hw0201.AssemblyInfoInputs.cache
+D:\大二下\c#\hw0201\hw0201\obj\Debug\netcoreapp3.1\hw0201.AssemblyInfo.cs
+D:\大二下\c#\hw0201\hw0201\obj\Debug\netcoreapp3.1\hw0201.csproj.CoreCompileInputs.cache
+D:\大二下\c#\hw0201\hw0201\obj\Debug\netcoreapp3.1\hw0201.dll
+D:\大二下\c#\hw0201\hw0201\obj\Debug\netcoreapp3.1\hw0201.pdb
+D:\大二下\c#\hw0201\hw0201\obj\Debug\netcoreapp3.1\hw0201.genruntimeconfig.cache
