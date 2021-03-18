@@ -1,0 +1,13 @@
+D:\大二下\软件基础（c#）\hw0203\hw0203\bin\Debug\netcoreapp3.1\hw0203.exe
+D:\大二下\软件基础（c#）\hw0203\hw0203\bin\Debug\netcoreapp3.1\hw0203.deps.json
+D:\大二下\软件基础（c#）\hw0203\hw0203\bin\Debug\netcoreapp3.1\hw0203.runtimeconfig.json
+D:\大二下\软件基础（c#）\hw0203\hw0203\bin\Debug\netcoreapp3.1\hw0203.runtimeconfig.dev.json
+D:\大二下\软件基础（c#）\hw0203\hw0203\bin\Debug\netcoreapp3.1\hw0203.dll
+D:\大二下\软件基础（c#）\hw0203\hw0203\bin\Debug\netcoreapp3.1\hw0203.pdb
+D:\大二下\软件基础（c#）\hw0203\hw0203\obj\Debug\netcoreapp3.1\hw0203.csprojAssemblyReference.cache
+D:\大二下\软件基础（c#）\hw0203\hw0203\obj\Debug\netcoreapp3.1\hw0203.AssemblyInfoInputs.cache
+D:\大二下\软件基础（c#）\hw0203\hw0203\obj\Debug\netcoreapp3.1\hw0203.AssemblyInfo.cs
+D:\大二下\软件基础（c#）\hw0203\hw0203\obj\Debug\netcoreapp3.1\hw0203.csproj.CoreCompileInputs.cache
+D:\大二下\软件基础（c#）\hw0203\hw0203\obj\Debug\netcoreapp3.1\hw0203.dll
+D:\大二下\软件基础（c#）\hw0203\hw0203\obj\Debug\netcoreapp3.1\hw0203.pdb
+D:\大二下\软件基础（c#）\hw0203\hw0203\obj\Debug\netcoreapp3.1\hw0203.genruntimeconfig.cache

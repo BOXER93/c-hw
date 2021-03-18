@@ -1,0 +1,13 @@
+D:\math01\math01\obj\Debug\netcoreapp3.1\math01.csprojAssemblyReference.cache
+D:\math01\math01\obj\Debug\netcoreapp3.1\math01.AssemblyInfoInputs.cache
+D:\math01\math01\obj\Debug\netcoreapp3.1\math01.AssemblyInfo.cs
+D:\math01\math01\obj\Debug\netcoreapp3.1\math01.csproj.CoreCompileInputs.cache
+D:\math01\math01\bin\Debug\netcoreapp3.1\math01.exe
+D:\math01\math01\bin\Debug\netcoreapp3.1\math01.deps.json
+D:\math01\math01\bin\Debug\netcoreapp3.1\math01.runtimeconfig.json
+D:\math01\math01\bin\Debug\netcoreapp3.1\math01.runtimeconfig.dev.json
+D:\math01\math01\bin\Debug\netcoreapp3.1\math01.dll
+D:\math01\math01\bin\Debug\netcoreapp3.1\math01.pdb
+D:\math01\math01\obj\Debug\netcoreapp3.1\math01.dll
+D:\math01\math01\obj\Debug\netcoreapp3.1\math01.pdb
+D:\math01\math01\obj\Debug\netcoreapp3.1\math01.genruntimeconfig.cache

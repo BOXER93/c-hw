@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "math02": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

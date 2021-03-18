@@ -1,0 +1,15 @@
+D:\math02\math02\bin\Debug\netcoreapp3.1\math02.deps.json
+D:\math02\math02\bin\Debug\netcoreapp3.1\math02.dll
+D:\math02\math02\bin\Debug\netcoreapp3.1\math02.pdb
+D:\math02\math02\obj\Debug\netcoreapp3.1\math02.UserControl1.resources
+D:\math02\math02\obj\Debug\netcoreapp3.1\math02.csproj.GenerateResource.cache
+D:\math02\math02\obj\Debug\netcoreapp3.1\math02.AssemblyInfoInputs.cache
+D:\math02\math02\obj\Debug\netcoreapp3.1\math02.AssemblyInfo.cs
+D:\math02\math02\obj\Debug\netcoreapp3.1\math02.csproj.CoreCompileInputs.cache
+D:\math02\math02\obj\Debug\netcoreapp3.1\math02.dll
+D:\math02\math02\obj\Debug\netcoreapp3.1\math02.pdb
+D:\math02\math02\obj\Debug\netcoreapp3.1\math02.csprojAssemblyReference.cache
+D:\math02\math02\bin\Debug\netcoreapp3.1\math02.exe
+D:\math02\math02\bin\Debug\netcoreapp3.1\math02.runtimeconfig.json
+D:\math02\math02\bin\Debug\netcoreapp3.1\math02.runtimeconfig.dev.json
+D:\math02\math02\obj\Debug\netcoreapp3.1\math02.genruntimeconfig.cache
