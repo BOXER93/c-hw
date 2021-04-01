@@ -1,0 +1,13 @@
+D:\大二下\软件基础（c#）\hw0401\hw0401\bin\Debug\netcoreapp3.1\hw0401.exe
+D:\大二下\软件基础（c#）\hw0401\hw0401\bin\Debug\netcoreapp3.1\hw0401.deps.json
+D:\大二下\软件基础（c#）\hw0401\hw0401\bin\Debug\netcoreapp3.1\hw0401.runtimeconfig.json
+D:\大二下\软件基础（c#）\hw0401\hw0401\bin\Debug\netcoreapp3.1\hw0401.runtimeconfig.dev.json
+D:\大二下\软件基础（c#）\hw0401\hw0401\bin\Debug\netcoreapp3.1\hw0401.dll
+D:\大二下\软件基础（c#）\hw0401\hw0401\bin\Debug\netcoreapp3.1\hw0401.pdb
+D:\大二下\软件基础（c#）\hw0401\hw0401\obj\Debug\netcoreapp3.1\hw0401.csprojAssemblyReference.cache
+D:\大二下\软件基础（c#）\hw0401\hw0401\obj\Debug\netcoreapp3.1\hw0401.AssemblyInfoInputs.cache
+D:\大二下\软件基础（c#）\hw0401\hw0401\obj\Debug\netcoreapp3.1\hw0401.AssemblyInfo.cs
+D:\大二下\软件基础（c#）\hw0401\hw0401\obj\Debug\netcoreapp3.1\hw0401.csproj.CoreCompileInputs.cache
+D:\大二下\软件基础（c#）\hw0401\hw0401\obj\Debug\netcoreapp3.1\hw0401.dll
+D:\大二下\软件基础（c#）\hw0401\hw0401\obj\Debug\netcoreapp3.1\hw0401.pdb
+D:\大二下\软件基础（c#）\hw0401\hw0401\obj\Debug\netcoreapp3.1\hw0401.genruntimeconfig.cache
