@@ -1,0 +1,13 @@
+D:\大二下\软件基础（c#）\hw0501\hw0501\bin\Debug\netcoreapp3.1\hw0501.exe
+D:\大二下\软件基础（c#）\hw0501\hw0501\bin\Debug\netcoreapp3.1\hw0501.deps.json
+D:\大二下\软件基础（c#）\hw0501\hw0501\bin\Debug\netcoreapp3.1\hw0501.runtimeconfig.json
+D:\大二下\软件基础（c#）\hw0501\hw0501\bin\Debug\netcoreapp3.1\hw0501.runtimeconfig.dev.json
+D:\大二下\软件基础（c#）\hw0501\hw0501\bin\Debug\netcoreapp3.1\hw0501.dll
+D:\大二下\软件基础（c#）\hw0501\hw0501\bin\Debug\netcoreapp3.1\hw0501.pdb
+D:\大二下\软件基础（c#）\hw0501\hw0501\obj\Debug\netcoreapp3.1\hw0501.csprojAssemblyReference.cache
+D:\大二下\软件基础（c#）\hw0501\hw0501\obj\Debug\netcoreapp3.1\hw0501.AssemblyInfoInputs.cache
+D:\大二下\软件基础（c#）\hw0501\hw0501\obj\Debug\netcoreapp3.1\hw0501.AssemblyInfo.cs
+D:\大二下\软件基础（c#）\hw0501\hw0501\obj\Debug\netcoreapp3.1\hw0501.csproj.CoreCompileInputs.cache
+D:\大二下\软件基础（c#）\hw0501\hw0501\obj\Debug\netcoreapp3.1\hw0501.dll
+D:\大二下\软件基础（c#）\hw0501\hw0501\obj\Debug\netcoreapp3.1\hw0501.pdb
+D:\大二下\软件基础（c#）\hw0501\hw0501\obj\Debug\netcoreapp3.1\hw0501.genruntimeconfig.cache
