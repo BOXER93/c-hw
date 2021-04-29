@@ -1,0 +1,9 @@
+D:\CSharpHomeWork-master (1)\CSharpHomeWork-master\Week 9&10-WebSpider\WebSpider\WebSpider\bin\Debug\WebSpider.exe.config
+D:\CSharpHomeWork-master (1)\CSharpHomeWork-master\Week 9&10-WebSpider\WebSpider\WebSpider\bin\Debug\WebSpider.exe
+D:\CSharpHomeWork-master (1)\CSharpHomeWork-master\Week 9&10-WebSpider\WebSpider\WebSpider\bin\Debug\WebSpider.pdb
+D:\CSharpHomeWork-master (1)\CSharpHomeWork-master\Week 9&10-WebSpider\WebSpider\WebSpider\obj\Debug\WebSpider.csprojAssemblyReference.cache
+D:\CSharpHomeWork-master (1)\CSharpHomeWork-master\Week 9&10-WebSpider\WebSpider\WebSpider\obj\Debug\WebSpider.Form1.resources
+D:\CSharpHomeWork-master (1)\CSharpHomeWork-master\Week 9&10-WebSpider\WebSpider\WebSpider\obj\Debug\WebSpider.csproj.GenerateResource.cache
+D:\CSharpHomeWork-master (1)\CSharpHomeWork-master\Week 9&10-WebSpider\WebSpider\WebSpider\obj\Debug\WebSpider.csproj.CoreCompileInputs.cache
+D:\CSharpHomeWork-master (1)\CSharpHomeWork-master\Week 9&10-WebSpider\WebSpider\WebSpider\obj\Debug\WebSpider.exe
+D:\CSharpHomeWork-master (1)\CSharpHomeWork-master\Week 9&10-WebSpider\WebSpider\WebSpider\obj\Debug\WebSpider.pdb
