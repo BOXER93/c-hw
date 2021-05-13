@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OrderManagementForm",
+    "\\OrderManagementForm\\EFGetStarted",
+    "\\OrderManagementForm\\EFGetStarted\\bin",
+    "\\OrderManagementForm\\EFGetStarted\\bin\\Release",
+    "\\OrderManagementForm\\EFGetStarted\\bin\\Release\\netcoreapp3.1",
+    "\\OrderManagementForm\\obj",
+    "\\OrderManagementForm\\obj\\Debug",
+    "\\OrderManagementForm\\obj\\Debug\\TempPE",
+    "\\OrderManagementForm\\Properties",
+    "\\OrderManagementForm\\Properties\\DataSources"
+  ],
+  "SelectedNode": "\\OrderManagementForm.sln",
+  "PreviewInSolutionExplorer": false
+}
